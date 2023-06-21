@@ -8,8 +8,8 @@ The program provides the following functionality: get dimension, compute basic s
     
     • Basic statistics: is the Min, Max, Mean and the standard Deviation of each column. For the above example, the output will look like this:
 
-    ![image](https://github.com/Yousef301/data-set-preprocessing-and-manipulation-using-shell-script/assets/102422691/a682fa09-362b-4881-897d-4da4aaa36e4d)
+![image](https://github.com/Yousef301/data-set-preprocessing-and-manipulation-using-shell-script/assets/102422691/a682fa09-362b-4881-897d-4da4aaa36e4d)
 
     • Substitutes missing values: if a sample row contains a missed value as below, the program will substitute the missed value by the mean of the column. In this example, the missed value will be substituted by         3.35
     
-    ![image](https://github.com/Yousef301/data-set-preprocessing-and-manipulation-using-shell-script/assets/102422691/181bfffe-5046-4dc3-94f5-3e892dfe5a31)
+![image](https://github.com/Yousef301/data-set-preprocessing-and-manipulation-using-shell-script/assets/102422691/181bfffe-5046-4dc3-94f5-3e892dfe5a31)
